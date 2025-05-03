@@ -1,5 +1,3 @@
 # -khlood-web-
 
-
-
-"أنا خلود، مطورة ويب. أهتم بالبرمجة وتطوير المواقع الإلكترونية. أعمل على تحسين مهاراتي في HTML وCSS وJavaScript. أحب العمل على مشاريع مبتكرة وتحقيق نتائج مميزة.
+ ."I'm Kholoud, a web developer. I'm interested in programming and website development. I'm working on improving my skills in HTML, CSS, and JavaScript. I love working on innovative projects and achieving outstanding results."  
