@@ -1,57 +1,23 @@
-
+<!DOCTYPE html>
 <html>
 <head>
-  <title>صفحة خلود</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      background-color: #f2f2f2;
-    }
-    .container {
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 20px;
-      background-color: #fff;
-      border: 1px solid #ddd;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-    .header {
-      background-color: #333;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
-    }
-    .projects {
-      margin-top: 40px;
-    }
-    .project {
-      margin-bottom: 20px;
-    }
-  </style>
+    <title>My First Web Page</title>
+    <style>
+        body {
+            background-color: pink;
+            text-align: center;
+            margin-top: 100px;
+        }
+        h1 {
+            color: blue;
+            font-family: Arial, sans-serif;
+        }
+    </style>
 </head>
 <body>
-  <div class="container">
-    <div class="header">
-      <h1>مرحبًا! أنا خلود</h1>
-    </div>
-    <p>مطورة ويب. أهتم بالبرمجة وتطوير المواقع الإلكترونية.</p>
-    <p>أعمل على تحسين مهاراتي في HTML وCSS وJavaScript.</p>
-    <div class="projects">
-      <h2>مشاريعي</h2>
-      <div class="project">
-        <h3>مشروع 1</h3>
-        <p>وصف المشروع</p>
-      </div>
-      <div class="project">
-        <h3>مشروع 2</h3>
-        <p>وصف المشروع</p>
-      </div>
-    </div>
-    <div class="contact">
-      <h2>اتصل بي</h2>
-      <p>البريد الإلكتروني: <a href="mailto:example@example.com">example@example.com</a></p>
-    </div>
-  </div>
+    <h1>Welcome to my first web page
+        اسم
+  كود
+    </h1>
 </body>
 </html>
